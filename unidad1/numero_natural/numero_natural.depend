@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1537037306 source:c:\users\usuario.athenea\desktop\itsva\3er semestre\estructura de datos\unidad 1\numero_natural\src\natural.cpp
+	<iostream>
+	"natural.h"
+
+1537035606 c:\users\usuario.athenea\desktop\itsva\3er semestre\estructura de datos\unidad 1\numero_natural\include\natural.h
+
+1537037382 source:c:\users\usuario.athenea\desktop\itsva\3er semestre\estructura de datos\unidad 1\numero_natural\main.cpp
+	<iostream>
+	"natural.h"
+	<stdlib.h>
+
