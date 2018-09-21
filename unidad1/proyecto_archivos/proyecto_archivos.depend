@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1537328357 source:c:\users\usuario.athenea\desktop\itsva\3er semestre\estructura de datos\unidad 1\proyecto_archivos\src\personas.cpp
+	"personas.h"
+	<string.h>
+	<iostream>
+	<stdlib.h>
+
+1537311210 c:\users\usuario.athenea\desktop\itsva\3er semestre\estructura de datos\unidad 1\proyecto_archivos\include\personas.h
+	<string.h>
+	<iostream>
+
+1537318119 source:c:\users\usuario.athenea\desktop\itsva\3er semestre\estructura de datos\unidad 1\proyecto_archivos\main.cpp
+	<iostream>
+	<fstream>
+	<string.h>
+	<stdlib.h>
+	"personas.h"
+

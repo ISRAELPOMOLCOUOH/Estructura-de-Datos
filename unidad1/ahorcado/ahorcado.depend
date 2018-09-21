@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1537574601 source:c:\users\usuario.athenea\desktop\itsva\3er semestre\estructura de datos\unidad 1\ahorcado\src\juego.cpp
+	"juego.h"
+	<iostream>
+	<string>
+	<cstdlib>
+	<vector>
+	<time.h>
+	<iomanip>
+
+1537573361 c:\users\usuario.athenea\desktop\itsva\3er semestre\estructura de datos\unidad 1\ahorcado\include\juego.h
+	<cstdlib>
+	<vector>
+	<time.h>
+	<iostream>
+	<string>
+
+1537574986 source:c:\users\usuario.athenea\desktop\itsva\3er semestre\estructura de datos\unidad 1\ahorcado\main.cpp
+	<iostream>
+	"juego.h"
+
